@@ -1,4 +1,4 @@
-# Hi there, I’m Minahil B. Samee, P.E. 👋
+# Hi there, I’m Minahil Samee, P.E. 👋
 
 I’m a licensed **Mechanical Engineer (Texas P.E.)** with a background in **building systems, HVAC design, and STEM education**. My work lives at the intersection of **engineering, problem-solving, and mentoring**, and I enjoy turning messy requirements into practical, human-centered designs. This GitHub portfolio is where I document my journey into more **data-driven engineering and analytics**, especially around energy use and building performance.
 
